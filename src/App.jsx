@@ -20,8 +20,8 @@ return (
     <h3>
       {saldo + n}
     </h3>
-    <button>bayar</button>
-    <disabled>bayar</disabled>
+    <button disabled>bayar</button>
+    
   </>
 )
 }
